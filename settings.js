@@ -25,7 +25,7 @@ global.mess = {
 global.owner = [process.env.OWNER_NUMBER] || ['923043942429'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
-SESSION_ID: process.env.SESSION_ID || 'youre session id',
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD:HarmedGeometry',
 POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgres://izumimd_meje_user:0Vhm5vKGZ7ORt2FlJBQf4d6EtRdeuE8z@dpg-cn0o2imn7f5s73fa46q0-a.frankfurt-postgres.render.com/izumimd_meje',
 PREFIX:  process.env.PREFIX || ['.'] ,
 LANG:  process.env.LANG || 'SI' ,    
@@ -48,6 +48,6 @@ AUTO_STICKER: process.env.AUTO_STICKER || true  ,
 WELCOME:  process.env.WELCOME  || true ,    
 NUMBER_212_BLOCK: process.env.NUMBER_212_BLOCK || true  ,
 FOOTER: process.env.FOOTER ||  '©𝞛𝞒 𝙂𝙐𝙇𝙎𝞖𝞢𝞒 - Ｖ4',
-LOGO: process.env.LOGO || `https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg` ,
-IMAGE: process.env.IMAGE || `https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg`     
+LOGO: process.env.LOGO || `https://telegra.ph/file/ac88ad2ef1bc9d927e232.jpg` ,
+IMAGE: process.env.IMAGE || `https://telegra.ph/file/ac88ad2ef1bc9d927e232.jpg`     
 };
