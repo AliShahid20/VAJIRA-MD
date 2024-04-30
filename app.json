@@ -1,8 +1,8 @@
 {
-    "name": "ＶＡＪＩＲＡ - ＭＤ - Ｖ4 WhatsApp Bot",
+    "name": "𝐌𝐫 𝐆𝐮𝐥𝐬𝐡𝐞𝐫 - Ｖ4 WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/vajirabot1/VAJIRA-MD",
-    "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
+    "logo": "https://telegra.ph/file/ac88ad2ef1bc9d927e232.jpg",
     "keywords": [
         "nodejs",
         "Bot",
@@ -12,9 +12,9 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "VAJIRA-MD:HarmedGeometry",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD:HarmedGeometry"
         },
         "NUMBER_212_BLOCK": {
             "description": "dont change this",
@@ -29,7 +29,7 @@
         "WELCOME": {
             "description": "To turn on/off welcome/goobye message put true/false",
             "required": true,
-            "value": "false"      
+            "value": "true"      
         },
         "LANG": {
             "description": "To put bot sinhala do not fill here. you want to put bot english put EN here",
@@ -39,7 +39,8 @@
         "OWNER-NAME": {
             "description": "put Your name herd",
             "required": true,
-            "value": "Vajira"      
+            "value": "𝐌𝐫 𝐆𝐮𝐥𝐬𝐡𝐞𝐫
+"      
         },
         "OWNER_NUMBER": {
             "description": "put your number here",
@@ -49,7 +50,7 @@
         "IMAGE": {
             "description": "Put bot image url here",
             "required": true,
-             "value": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"
+             "value": "https://telegra.ph/file/ac88ad2ef1bc9d927e232.jpg"
         },
         "ANTI_BOT": {
             "description": "put true or false here",
